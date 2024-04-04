@@ -22,8 +22,8 @@ Your task is to:
 2. Insert the data given in the `groceryItemsData` array into the new table.
 
 ### Hints
-> Hint 1: We use the `PRIMARY KEY` keyword for making a column a primary key;
+> **Hint 1:** We use the `PRIMARY KEY` keyword for making a column a primary key;
 
-> Hint 2: The `AUTO_INCREMENT` is used for making a column automatically take up incremented values;
+> **Hint 2:** The `AUTO_INCREMENT` is used for making a column automatically take up incremented values;
 
-> Hint 3: Use the `INSERT INTO` statement for inserting data into the table;
+> **Hint 3:** Use the `INSERT INTO` statement for inserting data into the table;
